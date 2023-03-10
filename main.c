@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <string.h>
-
+#define MAX_STR 10000
 int main()
 {
-    char str[10000];
+    char str[MAX_STR];
     int n;
     FILE *fp = fopen("input.txt", "r++");
     fscanf(fp, "%d", &n);
