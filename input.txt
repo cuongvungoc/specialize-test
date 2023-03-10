@@ -1,0 +1,7 @@
+6
+ab
+and
+abcd
+mem
+abcde
+aabbcc
